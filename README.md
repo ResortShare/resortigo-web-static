@@ -1,0 +1,1 @@
+# resortigo-web-static
